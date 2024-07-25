@@ -1,0 +1,1 @@
+/Users/stephen.ma/Developer/FirstApp/rust/target/i686-linux-android/release/libfirst_app.a: /Users/stephen.ma/Developer/FirstApp/rust/src/lib.rs /Users/stephen.ma/Developer/FirstApp/rust/src/wrapper.rs
